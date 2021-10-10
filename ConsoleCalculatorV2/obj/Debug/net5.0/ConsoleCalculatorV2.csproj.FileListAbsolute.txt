@@ -1,0 +1,16 @@
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\net5.0\ConsoleCalculatorV2.exe
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\net5.0\ConsoleCalculatorV2.deps.json
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\net5.0\ConsoleCalculatorV2.runtimeconfig.json
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\net5.0\ConsoleCalculatorV2.runtimeconfig.dev.json
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\net5.0\ConsoleCalculatorV2.dll
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\net5.0\ref\ConsoleCalculatorV2.dll
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\bin\Debug\net5.0\ConsoleCalculatorV2.pdb
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.csproj.AssemblyReference.cache
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.AssemblyInfoInputs.cache
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.AssemblyInfo.cs
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.csproj.CoreCompileInputs.cache
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.dll
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ref\ConsoleCalculatorV2.dll
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.pdb
+C:\Projects\ConsoleCalculatorV2\ConsoleCalculatorV2\obj\Debug\net5.0\ConsoleCalculatorV2.genruntimeconfig.cache
